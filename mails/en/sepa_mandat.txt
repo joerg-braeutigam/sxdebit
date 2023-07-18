@@ -1,0 +1,17 @@
+[{shop_url}] 
+
+Hello {firstname} {lastname}, 
+
+our Order {order_name} with SEPA Direct Debit is successful now.
+
+Your SEPA mandate was created.
+You have the mandate with this mail in attachement as pdf.
+Also you have to download the mandate here: {file}
+
+You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+If you have a guest account, you can follow your order via the "Guest Tracking" section on our shop.
+
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/] 
